@@ -1,7 +1,7 @@
 # DevOps_Tasks
 ##
 
-This is my repo for solving the tasks: Challenge #1, Challenge #2, Challenge #3.
+This is my repo for solving the tasks: Challenge #1 create  architecture for three tier application using TF, Challenge #2 python code for get EC2 metadata, Challenge #3 Python code for get Object from dictionary.
 
 ## Challenge#1
 
